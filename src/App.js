@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import "../node_modules/bootstrap/js/dist/collapse";
+import "../node_modules/bootstrap/dist/css/bootstrap.css";
+import "../node_modules/bootstrap/js/dist/collapse.js";
 import Home from "./components/pages/Home"
 import About from "./components/pages/About";
 import Contact from "./components/pages/Contact";
